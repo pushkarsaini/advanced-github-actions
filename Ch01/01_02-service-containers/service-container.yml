@@ -49,3 +49,4 @@ jobs:
           DATABASE_USER: ${{ env.DATABASE_USER }}
           DATABASE_PASS: ${{ env.DATABASE_PASS }}
           DATABASE_PORT: ${{ env.DATABASE_PORT }}
+
